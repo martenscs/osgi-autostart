@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/net.martenscs.osgi.starter_1.0.0.qualifier.jar" id="net.martenscs.osgi.starter" version="1.0.0.qualifier">
+      <category name="OSGi Bundle Starter"/>
+   </feature>
+   <category-def name="OSGi Bundle Starter" label="OSGi Bundle Starter"/>
+</site>
